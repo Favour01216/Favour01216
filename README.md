@@ -60,7 +60,8 @@
 
 ### 🤝 Let’s Connect!
 - 📧 Email: [Favouradesiyan2@gmail.com](mailto:Favouradesiyan2@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/Favourade/) <!-- Replace with your LinkedIn -->
+- [LinkedIn](https://www.linkedin.com/in/Favourade/) 
+- [Portfolio](https://next-js-portfolio-delta-lilac.vercel.app)
 - Open to collaborations and internship opportunities!
 
 ---
