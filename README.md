@@ -41,12 +41,12 @@
 
 ### 📌 Featured Projects
 
-#### [🏎️ F1 Undercut Simulator](https://github.com/Favour01216/F1-Undercut-Simulator)
+#### [🏎️ F1 Undercut Simulator](https://github.com/Favour01216/f1-undercut-sim)
 > Sophisticated Formula 1 race strategy tool with **real-time data (OpenF1, FastF1)**,  
 > **ML-powered tire degradation modeling**, and **pit stop optimization**.  
 > Built with **Next.js, FastAPI, Python, Docker** and deployed on **Vercel & Railway**.  
 
-#### [🥗 Sage & Oat](https://github.com/Favour01216/Sage-Oat)
+#### [🥗 Sage & Oat](https://github.com/Favour01216/sage-and-oats)
 > Recipe and nutrition platform with **instant Algolia search**, cook mode, and accessibility-first design.  
 > Achieved **90+ Lighthouse score** and **80% test coverage (unit, integration, E2E)**.  
 > Built with **Next.js 15, TypeScript, Supabase, Playwright**.  
