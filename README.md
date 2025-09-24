@@ -14,7 +14,7 @@
 
 ### 🌟 About Me
 - 👨‍💻 I love turning ideas into real, production-ready applications.  
-- 🌱 Currently focused on **full-stack web development**, **TypeScript**, **C#**, and **modern frameworks**.  
+- 🌱 Currently focused on **full-stack development**, **TypeScript**, **C#**, and **modern frameworks**.  
 - 📚 Always exploring new tools, collaborating, and contributing to impactful projects.  
 
 ---
